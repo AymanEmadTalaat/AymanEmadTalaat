@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AymanEmadTalaat, i'm from Egypt
-- 👀 I’m an entry level front-end developer
+- 👀 I’m a junior level front-end developer
 - 🌱 I’m currently learning ...
+- Skills: ["HTML5", "CSS3", "JavaScript", "React JS", "Vite", "Fetch API", "Async/Await", "GitHub", "GitHub Desktop", "VS Code"]
 - 📫 How to reach me ... aymanemad110@gmail.com
 
 <!---
